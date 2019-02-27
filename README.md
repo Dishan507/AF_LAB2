@@ -1,2 +1,2 @@
 # AF_LAB2
-There are eight questions related to JavaScript with their answers
+There are answers of eight related questions in JavaScript with their answers
