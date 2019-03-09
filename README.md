@@ -7,7 +7,7 @@ There are eight questions related to JavaScript with their answers
 ● Call the function printVehicleNameOuter and verify it is printing ‘Toyota’.  
 ● Declare an object named Vehicle (using object literal notation ‘{}’) which have a variable called vehicleName and assigned the value ‘Nissan’ to it. Declare a function named printVehicleNameInner and assign printVehicleNameOuter to it.  
 ● Execute the printVehicleNameInner function and see the results. 
-● Change the function printVehicleNameInner to return anonymous function (function without name) which prints this.vehicleName (printVehicleNameInner function body should return another function). 
+● Change the function printVehicleNameInner to return anonymous function (function without name) which prints this. vehicleName (printVehicleNameInner function body should return another function). 
 ● Call printVehicleNameInner function and assigned the return value to variable named execute. 
 ● Call the function execute. Understand that execute is assigned the  function returned from printVehicleNameInner function.
 Call execute function by using call method. In call first argument is execution context where  function should be executed. Call method executes the function in the passed execution context. Pass vehicle object as the first argument to call method.
