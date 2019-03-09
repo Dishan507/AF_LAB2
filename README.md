@@ -1,5 +1,5 @@
 # AF_LAB2
-There are answers of eight related questions of JavaScript
+There are eight questions with their answers related to JavaScript
 
 1)Understand the ‘this’ keyword in JavaScript. 
  
