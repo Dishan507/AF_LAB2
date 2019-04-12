@@ -1,4 +1,4 @@
-# AF_LAB2
+# Lab session 2 
 There are eight questions related to JavaScript with their answers
 
 1)Understand the ‘this’ keyword in JavaScript. 
